@@ -63,7 +63,7 @@ run_cmd() {
 }
 
 ARCH=$(dpkg --print-architecture)
-PKG_VERS="22.x"
+PKG_VERS="24.x"
 PKG_NAME="nodejs"
 REP_NAME="nodejs"
 GPG_LINK="https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key"
